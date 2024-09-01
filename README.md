@@ -1,4 +1,4 @@
-![icon](https://images.ctfassets.net/zh68lrw89i3n/3wk6az40SpLuAxFdjn0iDz/7409eab13c9c6819c34f0357db1ffec9/logo.png)
+![icon](https://images.ctfassets.net/zh68lrw89i3n/5hzGFHQzOB3XoS1VJJnHeI/1e99265c2c3078528571f6ba49197914/png-bird-logo.png)
 
 # Welcome!
 
