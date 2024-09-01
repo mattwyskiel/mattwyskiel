@@ -12,7 +12,7 @@ I started my development journey on the iOS platform around the time Apple relea
 - [Guitarparty-Cocoa](https://github.com/mattwyskiel/Guitarparty-Cocoa) - A Client library for the guitarparty.com API
 - [LicensesKit](https://github.com/mattwyskiel/LicensesKit) - A drop-in way to list third-party library licenses in your app based on a standardized JSON backing dataset.
 - [StringBuilder](https://github.com/mattwyskiel/StringBuilder) - A simple port of Java's StringBuilder class in Swift
-- [AppCoordinator](https://github.com/mattwyskiel/AppCoordinator) - a protocol-oriented implementation of the [Coordinator](https://mattwyskiel.com/stories/protocol-oriented-app-coordinators-in-swift) pattern in iOS.
+- [AppCoordinator](https://github.com/mattwyskiel/AppCoordinator) - A protocol-oriented implementation of the [Coordinator](https://mattwyskiel.com/stories/protocol-oriented-app-coordinators-in-swift) pattern in iOS.
 - [JuiceUI](https://github.com/mattwyskiel/JuiceUI) - A small collection of SwiftUI wrappers for common UIKit-based views in the iOS SDK
 - [GoogleyEyes](https://github.com/GoogleyEyes) - A Swift-native Client library for Google's APIs
 
@@ -25,7 +25,8 @@ As I started my professional career, my personal projects followed my work proje
 
 ### Projects
 - [mattwyskiel.com](https://github.com/mattwyskiel/mattwyskiel.com) - My personal website, showcasing my skills and ethos with a custom-built beautiful interface
-- [Whiskey](https://github.com/whiskey-platform) - a Personal OS that enables meaningful action from point-in-time events.
+- [Whiskey](https://github.com/whiskey-platform) - A Personal OS that enables meaningful action from point-in-time events.
+- [A-List](https://github.com/mattwyskiel/a-list) - A home website for my DJ-style mixes.
 
 ### Utilities
 #### Github Actions
