@@ -1,3 +1,5 @@
+![icon](https://images.ctfassets.net/zh68lrw89i3n/3wk6az40SpLuAxFdjn0iDz/7409eab13c9c6819c34f0357db1ffec9/logo.png)
+
 # Welcome!
 
 You've reached my GitHub home page. Here you'll see all my open source work I've done over the years, with more being open sourced all the time!
