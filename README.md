@@ -19,6 +19,7 @@ I started my development journey on the iOS platform around the time Apple relea
 - [GoogleyEyes](https://github.com/GoogleyEyes) - A Swift-native Client library for Google's APIs
 
 ### Apps
+- [Kingsmen Café](https://github.com/mattwyskiel/kingsmen-cafe) - A mobile ordering experience for a local coffee chain, in partnership with a high school business class
 - [BonesDay](https://github.com/mattwyskiel/BonesDay) - An app and widget based on the viral ['Bones Day'](https://www.nytimes.com/2021/10/21/style/bones-day-noodle-tiktok-dog.html) TikTok Trend
 
 ## Cloud and Multiplatform
