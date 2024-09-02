@@ -32,5 +32,7 @@ As I started my professional career, my personal projects followed my work proje
 - [A-List](https://github.com/mattwyskiel/a-list) - A home website for my DJ-style mixes.
 
 ### Utilities
+#### CLI
+- [bootstrap-microservice](https://github.com/mattwyskiel/bootstrap-microservice/tree/main) - A standardized way for me to generate boilerplate for microservices based on SST v1 and v2
 #### Github Actions
 - [sst-outputs-to-ssm](https://github.com/mattwyskiel/sst-outputs-to-ssm) - Enables sending [SST v2](https://v2.sst.dev/) Outputs to [AWS Systems Manager Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html), enabling direct use by referencing services in their stacks, and eliminating the use of static environment variables for that purpose.
